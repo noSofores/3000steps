@@ -1,0 +1,27 @@
+# Сборка и логи
+node_modules/
+dist/
+dist-ssr/
+*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Секретные ключи окружения (API ключи, пароли)
+.env
+.env.local
+.env.*.local
+
+# Системные файлы операционных систем
+.DS_Store
+Thumbs.db
+
+# Настройки редакторов кода (IDE)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

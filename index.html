@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Мультиязычный Тренажер 3000</title>
+</head>
+<body>
+
+    <header>
+        <h1>Словарный Тренажер 3000</h1>
+        <!-- Селектор языков -->
+        <div class="lang-selector">
+            <button class="btn-lang active" data-lang="en">🇬🇧 English</button>
+            <button class="btn-lang" data-lang="es">🇪🇸 Español</button>
+            <button class="btn-lang" data-lang="de">🇩🇪 Deutsch</button>
+        </div>
+        <p id="lesson-title">Выберите или сформируйте урок</p>
+    </header>
+
+    <div class="menu-panels">
+        <button class="btn" id="btn-new-lesson">Начать новый урок (10+5)</button>
+        <button class="btn btn-secondary" id="btn-repeat" disabled>Повторить этот урок</button>
+    </div>
+
+    <div class="card" id="main-card" style="display:none;">
+        <div class="word-header">
+            <div style="display: flex; align-items: center; gap: 12px;">
+                <h2 class="word-title" id="w-eng">Word</h2>
+                <button id="btn-speak" class="btn-audio" title="Прослушать произношение">🔊</button>
+            </div>
+            <span class="word-status" id="w-status">Новое</span>
+        </div>
+        <div class="word-type" id="w-type">Глагол</div>
+        
+        <div id="w-forms-container" style="display: flex; gap: 8px; margin-bottom: 15px; flex-wrap: wrap;"></div>
+
+        <div class="interactive-zone" id="quiz-zone">
+            <div id="quiz-instruction">Введите перевод на русский язык:</div>
+            <input type="text" class="input-field" id="user-input" placeholder="Ваш ответ..." autocomplete="off">
+            <div class="result-msg" id="result-text"></div>
+            <button class="btn btn-success" id="btn-check">Проверить</button>
+        </div>
+
+        <div class="hidden-content" id="info-zone">
+            <div class="translation" id="w-trans">Перевод</div>
+            <div class="details">
+                <strong>Синонимы:</strong> <span id="w-syn">-</span><br>
+                <strong>Антонимы:</strong> <span id="w-ant">-</span>
+            </div>
+            <strong>Примеры:</strong>
+            <ul class="examples" id="w-examples"></ul>
+        </div>
+    </div>
+
+    <div class="navigation" id="nav-zone" style="display:none;">
+        <button class="btn btn-secondary" id="btn-prev">⬅ Назад</button>
+        <span id="card-counter" style="font-weight:bold;">1 / 15</span>
+        <button class="btn" id="btn-next">Вперед ➡</button>
+    </div>
+
+    <div class="stats-footer" id="global-stats">
+        Загрузка базы данных...
+    </div>
+
+    <script type="module" src="/src/main.js"></script>
+</body>
+</html>

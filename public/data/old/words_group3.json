@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1001,
+    "word": "Abandon",
+    "type": "Глагол (Правильный)",
+    "translation": "покидать, оставлять",
+    "synonyms": "Desert",
+    "antonyms": "Stay",
+    "group": 3,
+    "examples": [
+      {
+        "en": "Abandon the ship.",
+        "ru": "Покинуть корабль."
+      }
+    ]
+  },
+  {
+    "id": 1002,
+    "word": "Acquire",
+    "type": "Глагол (Правильный)",
+    "translation": "приобретать",
+    "synonyms": "Gain",
+    "antonyms": "Lose",
+    "group": 3,
+    "examples": [
+      {
+        "en": "Acquire new skills.",
+        "ru": "Приобретать новые навыки."
+      }
+    ]
+  },
+  {
+    "id": 1003,
+    "word": "Accurate",
+    "type": "Прилагательное",
+    "translation": "точный",
+    "synonyms": "Precise",
+    "antonyms": "Inaccurate",
+    "group": 3,
+    "examples": [
+      {
+        "en": "An accurate map.",
+        "ru": "Точная карта."
+      }
+    ]
+  },
+  {
+    "id": 1004,
+    "word": "Advocate",
+    "type": "Существительное / Глагол",
+    "translation": "сторонник / защищать",
+    "synonyms": "Supporter",
+    "antonyms": "Opponent",
+    "group": 3,
+    "examples": [
+      {
+        "en": "Advocate for peace.",
+        "ru": "Выступать за мир."
+      }
+    ]
+  },
+  {
+    "id": 1005,
+    "word": "Ambiguous",
+    "type": "Прилагательное",
+    "translation": "двусмысленный",
+    "synonyms": "Vague",
+    "antonyms": "Clear",
+    "group": 3,
+    "examples": [
+      {
+        "en": "An ambiguous answer.",
+        "ru": "Двусмысленный ответ."
+      }
+    ]
+  },
+  {
+    "id": 1006,
+    "word": "Benevolent",
+    "type": "Прилагательное",
+    "translation": "доброжелательный",
+    "synonyms": "Kind",
+    "antonyms": "Malevolent",
+    "group": 3,
+    "examples": [
+      {
+        "en": "A benevolent smile.",
+        "ru": "Доброжелательная улыбка."
+      }
+    ]
+  },
+  {
+    "id": 1007,
+    "word": "Coincide",
+    "type": "Глагол (Правильный)",
+    "translation": "совпадать",
+    "synonyms": "Match",
+    "antonyms": "Differ",
+    "group": 3,
+    "examples": [
+      {
+        "en": "Our plans coincide.",
+        "ru": "Наши планы совпадают."
+      }
+    ]
+  },
+  {
+    "id": 1008,
+    "word": "Devastate",
+    "type": "Глагол (Правильный)",
+    "translation": "опустошать, разорять",
+    "synonyms": "Destroy",
+    "antonyms": "Restore",
+    "group": 3,
+    "examples": [
+      {
+        "en": "The storm devastated the town.",
+        "ru": "Шторм опустошил город."
+      }
+    ]
+  },
+  {
+    "id": 1009,
+    "word": "Eloquent",
+    "type": "Прилагательное",
+    "translation": "красноречивый",
+    "synonyms": "Expressive",
+    "antonyms": "-",
+    "group": 3,
+    "examples": [
+      {
+        "en": "An eloquent speech.",
+        "ru": "Красноречивая речь."
+      }
+    ]
+  },
+  {
+    "id": 1010,
+    "word": "Feasible",
+    "type": "Прилагательное",
+    "translation": "выполнимый, реальный",
+    "synonyms": "Possible",
+    "antonyms": "Impossible",
+    "group": 3,
+    "examples": [
+      {
+        "en": "A feasible plan.",
+        "ru": "Выполнимый план."
+      }
+    ]
+  }
+]

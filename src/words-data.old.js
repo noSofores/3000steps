@@ -1,0 +1,17 @@
+export const rawDictionary = [
+    { id: 1, word: "Accept", type: "Глагол (Правильный)", translation: "принимать", synonyms: "Take, Approve", antonyms: "Refuse, Reject", group: 1, examples: [{en:"She accepted the job.", ru:"Она приняла работу."},{en:"They accept cards.", ru:"Они принимают карты."}] },
+    { id: 2, word: "Find", type: "Глагол (Неправильный: Find-Found)", translation: "находить", synonyms: "Discover", antonyms: "Lose", group: 1, examples: [{en:"I can't find keys.", ru:"Я не могу найти ключи."}] },
+    { id: 3, word: "Achieve", type: "Глагол (Правильный)", translation: "достигать", synonyms: "Accomplish, Reach", antonyms: "Fail", group: 1, examples: [{en:"Achieve your goals.", ru:"Достигай своих целей."}] },
+    { id: 4, word: "Add", type: "Глагол (Правильный)", translation: "добавлять", synonyms: "Attach", antonyms: "Subtract", group: 1, examples: [{en:"Add some sugar.", ru:"Добавь немного сахара."}] },
+    { id: 5, word: "Admit", type: "Глагол (Правильный)", translation: "признавать", synonyms: "Confess", antonyms: "Deny", group: 1, examples: [{en:"He admitted his mistake.", ru:"Он признал свою ошибку."}] },
+    { id: 6, word: "Agree", type: "Глагол (Правильный)", translation: "соглашаться", synonyms: "Consent", antonyms: "Disagree", group: 1, examples: [{en:"I agree with you.", ru:"Я согласен с тобой."}] },
+    { id: 7, word: "Allow", type: "Глагол (Правильный)", translation: "разрешать", synonyms: "Permit, Let", antonyms: "Forbid", group: 1, examples: [{en:"Pets are not allowed.", ru:"Домашние животные не разрешены."}] },
+    { id: 8, word: "Begin", type: "Глагол (Неправильный: Begin-Began-Begun)", translation: "начинать", synonyms: "Start", antonyms: "End, Finish", group: 1, examples: [{en:"Let's begin the lesson.", ru:"Давайте начнем урок."}] },
+    { id: 9, word: "Believe", type: "Глагол (Правильный)", translation: "верить", synonyms: "Trust", antonyms: "Doubt", group: 1, examples: [{en:"I believe in you.", ru:"Я верю в тебя."}] },
+    { id: 10, word: "Bring", type: "Глагол (Неправильный: Bring-Brought)", translation: "приносить", synonyms: "Fetch, Carry", antonyms: "Take away", group: 1, examples: [{en:"Bring me some water.", ru:"Принеси мне воды."}] },
+    { id: 11, word: "Build", type: "Глагол (Неправильный: Build-Built)", translation: "строить", synonyms: "Construct", antonyms: "Destroy", group: 1, examples: [{en:"To build a new house.", ru:"Построить новый дом."}] },
+    { id: 12, word: "Buy", type: "Глагол (Неправильный: Buy-Bought)", translation: "покупать", synonyms: "Purchase", antonyms: "Sell", group: 1, examples: [{en:"Where did you buy it?", ru:"Где ты это купил?"}] },
+    { id: 13, word: "Call", type: "Глагол (Правильный)", translation: "звонить", synonyms: "Phone, Ring", antonyms: "- ", group: 1, examples: [{en:"Call me later.", ru:"Позвони мне позже."}] },
+    { id: 14, word: "Choose", type: "Глагол (Неправильный: Choose-Chose-Chosen)", translation: "выбирать", synonyms: "Select, Pick", antonyms: "Reject", group: 1, examples: [{en:"Choose your weapon.", ru:"Выбирай свое оружие."}] },
+    { id: 15, word: "Close", type: "Глагол (Правильный)", translation: "закрывать", synonyms: "Shut", antonyms: "Open", group: 1, examples: [{en:"Close the window.", ru:"Закрой окно."}] }
+];

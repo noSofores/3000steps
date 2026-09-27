@@ -1,0 +1,47 @@
+[
+  {
+    "id": 201,
+    "word": "Abandon",
+    "type": "Глагол (Правильный)",
+    "translation": "покидать",
+    "synonyms": "Desert",
+    "antonyms": "Stay",
+    "group": 3,
+    "examples": [
+      {
+        "en": "Abandon the ship.",
+        "ru": "Покинуть корабль."
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "word": "Acquire",
+    "type": "Глагол (Правильный)",
+    "translation": "приобретать",
+    "synonyms": "Gain",
+    "antonyms": "Lose",
+    "group": 3,
+    "examples": [
+      {
+        "en": "Acquire skills.",
+        "ru": "Приобрести навыки."
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "word": "Accurate",
+    "type": "Прилагательное",
+    "translation": "точный",
+    "synonyms": "Precise",
+    "antonyms": "Inaccurate",
+    "group": 3,
+    "examples": [
+      {
+        "en": "Accurate calculation.",
+        "ru": "Точный расчет."
+      }
+    ]
+  }
+]

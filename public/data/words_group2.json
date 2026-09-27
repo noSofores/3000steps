@@ -1,0 +1,77 @@
+[
+  {
+    "id": 101,
+    "word": "Accept",
+    "type": "Глагол (Правильный)",
+    "translation": "принимать",
+    "synonyms": "Approve",
+    "antonyms": "Refuse",
+    "group": 2,
+    "examples": [
+      {
+        "en": "Accept the offer.",
+        "ru": "Прими предложение."
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "word": "Achieve",
+    "type": "Глагол (Правильный)",
+    "translation": "достигать",
+    "synonyms": "Accomplish",
+    "antonyms": "Fail",
+    "group": 2,
+    "examples": [
+      {
+        "en": "Achieve your goal.",
+        "ru": "Достигай своей цели."
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "word": "Believe",
+    "type": "Глагол (Правильный)",
+    "translation": "верить",
+    "synonyms": "Trust",
+    "antonyms": "Doubt",
+    "group": 2,
+    "examples": [
+      {
+        "en": "I believe you.",
+        "ru": "Я верю тебе."
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "word": "Compare",
+    "type": "Глагол (Правильный)",
+    "translation": "сравнивать",
+    "synonyms": "Match",
+    "antonyms": "-",
+    "group": 2,
+    "examples": [
+      {
+        "en": "Compare the prices.",
+        "ru": "Сравни цены."
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "word": "Create",
+    "type": "Глагол (Правильный)",
+    "translation": "создавать",
+    "synonyms": "Produce",
+    "antonyms": "Destroy",
+    "group": 2,
+    "examples": [
+      {
+        "en": "Create a file.",
+        "ru": "Создай файл."
+      }
+    ]
+  }
+]

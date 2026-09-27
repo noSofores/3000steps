@@ -1,0 +1,152 @@
+[
+  {
+    "id": 501,
+    "word": "Accept",
+    "type": "Глагол (Правильный)",
+    "translation": "принимать",
+    "synonyms": "Approve",
+    "antonyms": "Refuse",
+    "group": 2,
+    "examples": [
+      {
+        "en": "She accepted the offer.",
+        "ru": "Она приняла предложение."
+      }
+    ]
+  },
+  {
+    "id": 502,
+    "word": "Achieve",
+    "type": "Глагол (Правильный)",
+    "translation": "достигать",
+    "synonyms": "Accomplish",
+    "antonyms": "Fail",
+    "group": 2,
+    "examples": [
+      {
+        "en": "Achieve your goals.",
+        "ru": "Достигай своих целей."
+      }
+    ]
+  },
+  {
+    "id": 503,
+    "word": "Believe",
+    "type": "Глагол (Правильный)",
+    "translation": "верить",
+    "synonyms": "Trust",
+    "antonyms": "Doubt",
+    "group": 2,
+    "examples": [
+      {
+        "en": "I believe you.",
+        "ru": "Я верю тебе."
+      }
+    ]
+  },
+  {
+    "id": 504,
+    "word": "Compare",
+    "type": "Глагол (Правильный)",
+    "translation": "сравнивать",
+    "synonyms": "Match",
+    "antonyms": "-",
+    "group": 2,
+    "examples": [
+      {
+        "en": "Compare these options.",
+        "ru": "Сравни эти варианты."
+      }
+    ]
+  },
+  {
+    "id": 505,
+    "word": "Create",
+    "type": "Глагол (Правильный)",
+    "translation": "создавать",
+    "synonyms": "Make",
+    "antonyms": "Destroy",
+    "group": 2,
+    "examples": [
+      {
+        "en": "Create a file.",
+        "ru": "Создай файл."
+      }
+    ]
+  },
+  {
+    "id": 506,
+    "word": "Defend",
+    "type": "Глагол (Правильный)",
+    "translation": "защищать",
+    "synonyms": "Protect",
+    "antonyms": "Attack",
+    "group": 2,
+    "examples": [
+      {
+        "en": "Defend your rights.",
+        "ru": "Защищай свои права."
+      }
+    ]
+  },
+  {
+    "id": 507,
+    "word": "Discuss",
+    "type": "Глагол (Правильный)",
+    "translation": "обсуждать",
+    "synonyms": "Debate",
+    "antonyms": "-",
+    "group": 2,
+    "examples": [
+      {
+        "en": "Let's discuss it.",
+        "ru": "Давайте обсудим это."
+      }
+    ]
+  },
+  {
+    "id": 508,
+    "word": "Encourage",
+    "type": "Глагол (Правильный)",
+    "translation": "поощрять, поддерживать",
+    "synonyms": "Support",
+    "antonyms": "Discourage",
+    "group": 2,
+    "examples": [
+      {
+        "en": "Encourage his efforts.",
+        "ru": "Поддержи его усилия."
+      }
+    ]
+  },
+  {
+    "id": 509,
+    "word": "Establish",
+    "type": "Глагол (Правильный)",
+    "translation": "основывать, устанавливать",
+    "synonyms": "Found",
+    "antonyms": "Abolish",
+    "group": 2,
+    "examples": [
+      {
+        "en": "Establish a company.",
+        "ru": "Основать компанию."
+      }
+    ]
+  },
+  {
+    "id": 510,
+    "word": "Explain",
+    "type": "Глагол (Правильный)",
+    "translation": "объяснять",
+    "synonyms": "Clarify",
+    "antonyms": "-",
+    "group": 2,
+    "examples": [
+      {
+        "en": "Explain the rules.",
+        "ru": "Объясни правила."
+      }
+    ]
+  }
+]

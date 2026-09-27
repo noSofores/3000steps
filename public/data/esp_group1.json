@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1001,
+    "word": "Ser",
+    "type": "Глагол (Неправильный)",
+    "translation": "быть, являться",
+    "synonyms": "Existir",
+    "antonyms": "-",
+    "group": 1,
+    "examples": [
+      {
+        "en": "Ser o no ser.",
+        "ru": "Быть или не быть."
+      }
+    ]
+  },
+  {
+    "id": 1002,
+    "word": "Tener",
+    "type": "Глагол (Неправильный)",
+    "translation": "иметь",
+    "synonyms": "Poseer",
+    "antonyms": "Carecer",
+    "group": 1,
+    "examples": [
+      {
+        "en": "Tengo un libro.",
+        "ru": "У меня есть книга."
+      }
+    ]
+  },
+  {
+    "id": 1003,
+    "word": "Hacer",
+    "type": "Глагол (Неправильный)",
+    "translation": "делать",
+    "synonyms": "Realizar",
+    "antonyms": "-",
+    "group": 1,
+    "examples": [
+      {
+        "en": "Hazlo ahora.",
+        "ru": "Сделай это сейчас."
+      }
+    ]
+  }
+]

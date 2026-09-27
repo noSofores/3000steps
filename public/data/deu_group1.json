@@ -1,0 +1,47 @@
+[
+  {
+    "id": 2001,
+    "word": "Sein",
+    "type": "Глагол (Неправильный)",
+    "translation": "быть",
+    "synonyms": "Existieren",
+    "antonyms": "-",
+    "group": 1,
+    "examples": [
+      {
+        "en": "Sein oder nicht sein.",
+        "ru": "Быть или не быть."
+      }
+    ]
+  },
+  {
+    "id": 2002,
+    "word": "Haben",
+    "type": "Глагол (Неправильный)",
+    "translation": "иметь",
+    "synonyms": "Besitzen",
+    "antonyms": "-",
+    "group": 1,
+    "examples": [
+      {
+        "en": "Ich habe ein Buch.",
+        "ru": "У меня есть книга."
+      }
+    ]
+  },
+  {
+    "id": 2003,
+    "word": "Machen",
+    "type": "Глагол",
+    "translation": "делать",
+    "synonyms": "Tun",
+    "antonyms": "-",
+    "group": 1,
+    "examples": [
+      {
+        "en": "Mach es jetzt.",
+        "ru": "Сделай это сейчас."
+      }
+    ]
+  }
+]

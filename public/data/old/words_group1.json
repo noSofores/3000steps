@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "word": "Be",
+    "type": "Глагол (Неправильный)",
+    "translation": "быть, являться",
+    "synonyms": "Exist",
+    "antonyms": "-",
+    "group": 1,
+    "examples": [
+      {
+        "en": "To be or not to be.",
+        "ru": "Быть или не быть."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "word": "Have",
+    "type": "Глагол (Неправильный)",
+    "translation": "иметь, обладать",
+    "synonyms": "Own, Possess",
+    "antonyms": "Lack",
+    "group": 1,
+    "examples": [
+      {
+        "en": "I have a dream.",
+        "ru": "У меня есть мечта."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "word": "Do",
+    "type": "Глагол (Неправильный)",
+    "translation": "делать, выполнять",
+    "synonyms": "Perform, Act",
+    "antonyms": "-",
+    "group": 1,
+    "examples": [
+      {
+        "en": "Just do it.",
+        "ru": "Просто сделай это."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "word": "Say",
+    "type": "Глагол (Неправильный)",
+    "translation": "говорить, сказать",
+    "synonyms": "Tell",
+    "antonyms": "-",
+    "group": 1,
+    "examples": [
+      {
+        "en": "What did he say?",
+        "ru": "Что он сказал?"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "word": "Go",
+    "type": "Глагол (Неправильный)",
+    "translation": "идти, двигаться",
+    "synonyms": "Move, Walk",
+    "antonyms": "Stay",
+    "group": 1,
+    "examples": [
+      {
+        "en": "I must go now.",
+        "ru": "Мне пора идти."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "word": "Get",
+    "type": "Глагол (Неправильный)",
+    "translation": "получать, становиться",
+    "synonyms": "Receive",
+    "antonyms": "Give",
+    "group": 1,
+    "examples": [
+      {
+        "en": "I got your letter.",
+        "ru": "Я получил твое письмо."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "word": "Make",
+    "type": "Глагол (Неправильный)",
+    "translation": "делать, создавать",
+    "synonyms": "Create",
+    "antonyms": "Destroy",
+    "group": 1,
+    "examples": [
+      {
+        "en": "Make a choice.",
+        "ru": "Сделай выбор."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "word": "Know",
+    "type": "Глагол (Неправильный)",
+    "translation": "знать, понимать",
+    "synonyms": "Understand",
+    "antonyms": "-",
+    "group": 1,
+    "examples": [
+      {
+        "en": "I know everything.",
+        "ru": "Я все знаю."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "word": "Think",
+    "type": "Глагол (Неправильный)",
+    "translation": "думать, считать",
+    "synonyms": "Believe",
+    "antonyms": "-",
+    "group": 1,
+    "examples": [
+      {
+        "en": "Think about it.",
+        "ru": "Подумай об этом."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "word": "Take",
+    "type": "Глагол (Неправильный)",
+    "translation": "брать, взять",
+    "synonyms": "Grab",
+    "antonyms": "Give",
+    "group": 1,
+    "examples": [
+      {
+        "en": "Take my hand.",
+        "ru": "Возьми мою руку."
+      }
+    ]
+  }
+]

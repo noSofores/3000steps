@@ -1,0 +1,113 @@
+:root {
+    --primary: #4a6fa5;
+    --success: #2ecc71;
+    --danger: #e74c3c;
+    --bg: #f4f7f6;
+    --card-bg: #ffffff;
+    --text: #333333;
+}
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: var(--bg);
+    color: var(--text);
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+}
+header { text-align: center; margin-bottom: 15px; }
+.menu-panels { display: flex; gap: 10px; margin-bottom: 20px; }
+.btn {
+    background-color: var(--primary); color: white; border: none;
+    padding: 10px 20px; border-radius: 8px; font-weight: bold;
+    cursor: pointer; transition: 0.2s; font-size: 0.95rem;
+}
+.btn:hover { opacity: 0.9; transform: translateY(-1px); }
+.btn-secondary { background-color: #7f8c8d; }
+.btn-success { background-color: var(--success); }
+
+.card {
+    background: var(--card-bg); width: 420px; min-height: 400px;
+    border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+    padding: 30px; box-sizing: border-box; display: flex;
+    flex-direction: column; position: relative; margin-bottom: 20px;
+}
+.word-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 15px; }
+.word-title { font-size: 2.2rem; color: var(--primary); margin: 0; }
+.word-status { font-size: 0.8rem; background: #e0e0e0; padding: 3px 8px; border-radius: 10px; font-weight: bold;}
+.word-type { font-style: italic; color: #777; margin-bottom: 15px; }
+
+.interactive-zone { margin: 15px 0; background: #f9f9f9; padding: 15px; border-radius: 8px; border-left: 4px solid var(--primary); }
+.input-field {
+    width: 100%; padding: 10px; box-sizing: border-box;
+    border: 2px solid #ccc; border-radius: 6px; font-size: 1rem; margin-bottom: 10px;
+}
+.input-field:focus { border-color: var(--primary); outline: none; }
+
+.hidden-content { display: none; margin-top: 15px; }
+.hidden-content.visible { display: block; }
+.translation { font-size: 1.4rem; font-weight: bold; color: #2c3e50; margin-bottom: 10px; }
+.details { font-size: 0.9rem; margin-bottom: 10px; color: #555; }
+.examples { padding-left: 20px; margin: 10px 0; font-size: 0.9rem; }
+.examples li { margin-bottom: 8px; }
+.ex-ru { display: block; color: #666; font-size: 0.8rem; }
+
+.navigation { display: flex; align-items: center; gap: 15px; width: 420px; justify-content: space-between; }
+.stats-footer { margin-top: 20px; font-size: 0.85rem; color: #777; text-align: center; line-height: 1.5; }
+.result-msg { font-weight: bold; margin-bottom: 10px; display: none; }
+
+/* Кнопка озвучки слов */
+.btn-audio {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 50%;
+    transition: transform 0.1s ease, background-color 0.2s;
+    line-height: 1;
+}
+.btn-audio:hover {
+    background-color: #f0f0f0;
+    transform: scale(1.1);
+}
+.btn-audio:active {
+    transform: scale(0.95);
+}
+
+/* Теги для неправильных глаголов */
+.verb-form-badge {
+    background-color: #ebf3ff;
+    color: #2c5282;
+    border: 1px solid #bee3f8;
+    padding: 4px 10px;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    font-weight: 600;
+}
+.verb-form-badge small {
+    color: #4a5568;
+    margin-right: 3px;
+}
+
+.lang-selector {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+.btn-lang {
+    background-color: #e2e8f0;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: 0.2s;
+}
+.btn-lang.active, .btn-lang:hover {
+    background-color: var(--primary);
+    color: white;
+}
